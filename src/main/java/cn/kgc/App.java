@@ -13,6 +13,6 @@ public class App
 	 
     public static void main( String[] args )
     {
-        System.out.println( "Hello TCST003!" );
+        System.out.println( "Hello TADE2011!" );
     }
 }
